@@ -1,4 +1,3 @@
-import random
 import urllib
 import folium
 import pandas as pd
