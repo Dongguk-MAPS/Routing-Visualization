@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0811605-3ab4-410e-95f6-570a904b9e4c" name="Changes" comment="refactor : .idea 삭제">
+      <change afterPath="$PROJECT_DIR$/route-visualization/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route-visualization/MILP.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route-visualization/Map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route-visualization/visualR.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routeWrapper/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routeWrapper/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routeWrapper/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routeWrapper/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routeWrapper/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routeWrapper/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routeWrapper/.idea/routeWrapper.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routeWrapper/MILP.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routeWrapper/Map.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routeWrapper/visualR.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SSfVfL61ec1LZN24GxOb1HnGo3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore_missing_gitignore": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jkbae\PycharmProjects\Routing-Visualization\routeWrapper" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0811605-3ab4-410e-95f6-570a904b9e4c" name="Changes" comment="" />
+      <created>1689144934618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689144934618</updated>
+      <workItem from="1689144934618" duration="1710000" />
+      <workItem from="1689152063313" duration="1709000" />
+    </task>
+    <task id="LOCAL-00001" summary="docs : csv 파일 추가">
+      <option name="closed" value="true" />
+      <created>1689145068377</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689145068377</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat : 경로 시각화 파일 추가">
+      <option name="closed" value="true" />
+      <created>1689145121610</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689145121610</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chore : gitignore 추가">
+      <option name="closed" value="true" />
+      <created>1689152961523</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689152961523</updated>
+    </task>
+    <task id="LOCAL-00004" summary="refactor : gitignore 위치 변경">
+      <option name="closed" value="true" />
+      <created>1689153103469</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689153103469</updated>
+    </task>
+    <task id="LOCAL-00005" summary="refactor : 불필요한 라이브러리 import 제거">
+      <option name="closed" value="true" />
+      <created>1689153119681</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689153119681</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactor : .idea 삭제">
+      <option name="closed" value="true" />
+      <created>1689153194978</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689153194978</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docs : csv 파일 추가" />
+    <MESSAGE value="feat : 경로 시각화 파일 추가" />
+    <MESSAGE value="chore : gitignore 추가" />
+    <MESSAGE value="refactor : gitignore 위치 변경" />
+    <MESSAGE value="refactor : 불필요한 라이브러리 import 제거" />
+    <MESSAGE value="refactor : .idea 삭제" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor : .idea 삭제" />
+  </component>
+</project>
