@@ -2,17 +2,16 @@ from setuptools import setup, find_packages
 
 setup(
     name='mapsrouting',
-    version='0.0.9',
+    version='0.0.10',
     description='Visualize map paths implemented with Python',
     author='codusl100',
     author_email='codusl100@naver.com',
     url='https://github.com/Dongguk-MAPS/Routing-Visualization',
-    include_package_data=True,
+    package_data={'':['GDAL-3.4.3-cp310-cp310-win_amd64.whl']},
     install_requires=['folium', 'pandas', 'numpy', 'osrm', 'polyline'],
     packages=find_packages(exclude=[]),
     keywords=['codusl100', 'MAPS', 'route visualization', 'python route visualization'],
     python_requires='>=3.6',
-    package_data={},
     zip_safe=False,
     classifiers=[
         'Programming Language :: Python :: 3.6',
