@@ -60,3 +60,8 @@ from maps.visualR import visualize
 # 예시
 visualize('*.csv', color)
 ```
+
+<br>
+
+### 출력 화면
+![image](https://github.com/Dongguk-MAPS/Routing-Visualization/assets/77263479/578d41be-48ca-446c-91af-62927c07f8f2)
