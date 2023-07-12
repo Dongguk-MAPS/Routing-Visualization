@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='route-visualization',
-    version='0.0.6',
+    name='mapsrouting',
+    version='0.0.7',
     description='Visualize map paths implemented with Python',
     author='codusl100',
     author_email='codusl100@naver.com',
