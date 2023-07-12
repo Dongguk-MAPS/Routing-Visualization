@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='route-visualization',
-    version='0.0.1',
+    version='0.0.2',
     description='Visualize map paths implemented with Python',
     author='codusl100',
     author_email='codusl100@naver.com',
