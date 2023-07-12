@@ -99,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1689144934618</updated>
       <workItem from="1689144934618" duration="1710000" />
-      <workItem from="1689152063313" duration="4539000" />
+      <workItem from="1689152063313" duration="5174000" />
     </task>
     <task id="LOCAL-00001" summary="docs : csv 파일 추가">
       <option name="closed" value="true" />
@@ -189,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689158756631</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="docs : 버전 업데이트">
+      <option name="closed" value="true" />
+      <created>1689159649514</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1689159649514</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
