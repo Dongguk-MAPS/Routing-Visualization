@@ -7,7 +7,7 @@ setup(
     author='codusl100',
     author_email='codusl100@naver.com',
     url='https://github.com/Dongguk-MAPS/Routing-Visualization',
-    install_requires=['folium', 'pandas', 'numpy', 'gdal', 'osrm', 'polyline'],
+    install_requires=['folium', 'pandas', 'numpy', 'osrm', 'polyline'],
     packages=find_packages(exclude=[]),
     keywords=['codusl100', 'MAPS', 'route visualization', 'python route visualization'],
     python_requires='>=3.6',
