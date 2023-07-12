@@ -70,4 +70,4 @@ def visualize(csv_file, color):
     MapResult.save("Map.html")
 
 
-visualize('MILP.csv', random.choice(ColSets))
+visualize('data/MILP.csv', random.choice(ColSets))

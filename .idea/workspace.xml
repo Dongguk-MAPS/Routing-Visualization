@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0811605-3ab4-410e-95f6-570a904b9e4c" name="Changes" comment="refactor &amp; chore : 프로젝트명 변경 &amp; 버전 업데이트">
-      <change beforePath="$PROJECT_DIR$/mapsrouting/MANIFEST.in" beforeDir="false" afterPath="$PROJECT_DIR$/mapsrouting/MANIFEST.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapsrouting/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mapsrouting/__init__.py" afterDir="false" />
+    <list default="true" id="f0811605-3ab4-410e-95f6-570a904b9e4c" name="Changes" comment="chore : 버전 업데이트">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapsrouting/GDAL-3.4.3-cp310-cp310-win_amd64.whl" beforeDir="false" afterPath="$PROJECT_DIR$/mapsrouting/src/maps/data/GDAL-3.4.3-cp310-cp310-win_amd64.whl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapsrouting/MANIFEST.in" beforeDir="false" afterPath="$PROJECT_DIR$/mapsrouting/src/maps/MANIFEST.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapsrouting/MILP.csv" beforeDir="false" afterPath="$PROJECT_DIR$/mapsrouting/src/maps/data/MILP.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapsrouting/Map.html" beforeDir="false" afterPath="$PROJECT_DIR$/mapsrouting/src/maps/Map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapsrouting/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapsrouting/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mapsrouting/src/maps/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mapsrouting/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/mapsrouting/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapsrouting/visualR.py" beforeDir="false" afterPath="$PROJECT_DIR$/mapsrouting/src/maps/visualR.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +67,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jkbae\PycharmProjects\Routing-Visualization\mapsrouting\src\mapsrouting" />
+      <recent name="C:\Users\jkbae\PycharmProjects\Routing-Visualization\mapsrouting\src" />
+      <recent name="C:\Users\jkbae\PycharmProjects\Routing-Visualization\mapsrouting\src\data" />
       <recent name="C:\Users\jkbae\PycharmProjects\Routing-Visualization\route-visualization" />
       <recent name="C:\Users\jkbae\PycharmProjects\Routing-Visualization\routeWrapper" />
     </key>
@@ -104,7 +113,7 @@
       <updated>1689144934618</updated>
       <workItem from="1689144934618" duration="1710000" />
       <workItem from="1689152063313" duration="8678000" />
-      <workItem from="1689163649790" duration="1150000" />
+      <workItem from="1689163649790" duration="3191000" />
     </task>
     <task id="LOCAL-00001" summary="docs : csv 파일 추가">
       <option name="closed" value="true" />
@@ -250,7 +259,31 @@
       <option name="project" value="LOCAL" />
       <updated>1689163801869</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="chore : setup.py, 버전 업데이트">
+      <option name="closed" value="true" />
+      <created>1689164834089</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1689164834089</updated>
+    </task>
+    <task id="LOCAL-00020" summary="chore : 버전 업데이트">
+      <option name="closed" value="true" />
+      <created>1689164969872</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1689164969872</updated>
+    </task>
+    <task id="LOCAL-00021" summary="chore : 버전 업데이트">
+      <option name="closed" value="true" />
+      <created>1689165520011</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1689165520011</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,7 +316,9 @@
     <MESSAGE value="docs : 버전 업데이트" />
     <MESSAGE value="chore : requirements.txt 추가 및 버전 업데이트" />
     <MESSAGE value="refactor &amp; chore : 프로젝트명 변경 &amp; 버전 업데이트" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor &amp; chore : 프로젝트명 변경 &amp; 버전 업데이트" />
+    <MESSAGE value="chore : setup.py, 버전 업데이트" />
+    <MESSAGE value="chore : 버전 업데이트" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore : 버전 업데이트" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Routing_Visualization$visualR.coverage" NAME="visualR Coverage Results" MODIFIED="1689158414929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/route-visualization" />
