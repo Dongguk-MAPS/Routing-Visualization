@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='maps',
-    version='0.1.10',
+    name='mapsrouting',
+    version='0.1.11',
     description='Visualize map paths implemented with Python',
     author='codusl100',
     author_email='codusl100@naver.com',
@@ -10,7 +10,7 @@ setup(
     packages=['maps'],
     package_dir={'maps': 'src/maps'},
     package_data={'maps': ['src/*']},
-    install_requires=['folium', 'pandas', 'numpy', 'osrm', 'polyline'],
+    install_requires=['folium', 'pandas', 'numpy', 'polyline'],
     keywords=['codusl100', 'MAPS', 'route visualization', 'python route visualization'],
     python_requires='>=3.6',
     zip_safe=False,
